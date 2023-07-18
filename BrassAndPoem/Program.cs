@@ -31,6 +31,6 @@ void UpdateProduct(List<Product> products, List<ProductType> productTypes)
 {
     throw new NotImplementedException();
 }
-
+Console.WriteLine("Hello World!");
 // don't move or change this!
 public partial class Program { }
